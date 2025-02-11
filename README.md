@@ -50,4 +50,4 @@ npm start
 📅 Auto-sort trips by countdown.
 📜 Export trip details to PDF.
 👨‍💻 Developer
-👋 Developed by Your Name | 📧 your.email@example.com
+👋 Developed by Sewar Asaln | 📧 sewaraslan02@gmail.com
